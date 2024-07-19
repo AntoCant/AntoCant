@@ -13,7 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoCant&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AntoCant&icon=2&color=12)](https://www.linkedin.com/in/antonio-canteros/)
 
 Visita mi perfil de [LinkedIn](https://www.linkedin.com/in/antonio-canteros/)
 
