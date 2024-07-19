@@ -1,5 +1,24 @@
 # 💫 About Me:
-About Me<br>👋 ¡Hola! Soy Antonio, un Desarrollador Back-End especializado en Java y Spring Boot, apasionado por crear soluciones eficientes y escalables.<br><br>💼 Actualmente, desarrollo microservicios para una aplicación móvil de una academia de programación. En mis tiempos libres, trabajo en una arquitectura de microservicios para un e-commerce.<br><br>🎖️ Logros Destacados<br><br>-Trabajo Independiente: Desarrollo backend para una app móvil de una academia de programación, usando Java, Spring Boot, PostgreSQL, Docker, Gradle, Swagger, Git y GitHub.<br>   -Aplicación de patrones como Builder y Factory.<br>   -Comprensión y documentación de la arquitectura del proyecto.<br>   -Mejora continua enfrentando nuevos desafíos.<br><br>-Microservicios: Diseñé microservicios escalables mejorando la eficiencia del sistema.<br><br>-Experiencia en LANXESS: Resolví problemas complejos y mejoré la calidad del software.<br><br>-Formación Continua: Autodidacta, actualizando constantemente mis habilidades.<br><br>-E-commerce (Curso): Desarrollé el backend para una app de comercio electrónico usando Java, Spring Boot, PostgreSQL, Docker, Maven, Swagger, Git y GitHub. Implementé autenticación con Spring Security y JWT.<br>
+
+👋 ¡Hola! Soy Antonio, un Desarrollador Back-End especializado en Java y Spring Boot, apasionado por crear soluciones eficientes y escalables.
+
+💼 Actualmente, desarrollo microservicios para una aplicación móvil de una academia de programación. En mis tiempos libres, trabajo en una arquitectura de microservicios para un e-commerce.
+
+## 🎖️ Logros Destacados
+
+- **Trabajo Independiente:** Desarrollo backend para una app móvil de una academia de programación, usando Java, Spring Boot, PostgreSQL, Docker, Gradle, Swagger, Git y GitHub.
+  - Aplicación de patrones como Builder y Factory.
+  - Comprensión y documentación de la arquitectura del proyecto.
+  - Mejora continua enfrentando nuevos desafíos.
+
+- **Microservicios:** Diseñé microservicios escalables mejorando la eficiencia del sistema.
+
+- **Experiencia en LANXESS:** Resolví problemas complejos y mejoré la calidad del software.
+
+- **Formación Continua:** Autodidacta, actualizando constantemente mis habilidades.
+
+- **E-commerce (Curso):** Desarrollé el backend para una app de comercio electrónico usando Java, Spring Boot, PostgreSQL, Docker, Maven, Swagger, Git y GitHub. Implementé autenticación con Spring Security y JWT.
+
 
 
 ## 🌐 Socials:
