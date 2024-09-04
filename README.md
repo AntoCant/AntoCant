@@ -20,20 +20,11 @@
 
 - **E-commerce (Curso):** Desarrollé el backend para una app de comercio electrónico usando Java, Spring Boot, PostgreSQL, Docker, Maven, Swagger, Git y GitHub. Implementé autenticación con Spring Security y JWT.
 
-
-
 <h5 align="center">
   <code><a href="https://linkedin.com/in/antonio-canteros/" title="LinkedIn Profile"><img width="22" src="https://github.com/AntoCant/AntoCant/raw/main/image/linkedin.png"> LinkedIn</a></code>
   <code><a href="https://antoniocanteros.com" title="Website"><img width="22" src="https://github.com/AntoCant/AntoCant/raw/main/image/web.png"> Website</a></code>
   <code><a href="mailto:antonio.canteros.alberto@gmail.com" title="Email"><img width="22" src="https://github.com/AntoCant/AntoCant/raw/main/image/gmail.png"> Email</a></code>
 </h5>
-
-
-
-
-
-
-<!-- Conecct section -->
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
@@ -67,28 +58,28 @@
 <h2 align="center">Repositorios</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/CantMagg-tech-works/Auth-Server" title="Auth Server"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CantMagg-tech-works&repo=Auth-Server&theme=react&border_color=61dafb&border_radius=10&v=1"></a>
-  <a align="right" href="https://github.com/CantMagg-tech-works/api-users" title="API Users"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CantMagg-tech-works&repo=api-users&theme=react&border_color=61dafb&border_radius=10&v=1"></a>
+  <a align="left" href="https://github.com/CantMagg-tech-works/Auth-Server" title="Auth Server">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CantMagg-tech-works&repo=Auth-Server&theme=react&border_color=61dafb&border_radius=10&v=2">
+  </a>
+  <a align="right" href="https://github.com/CantMagg-tech-works/api-users" title="API Users">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CantMagg-tech-works&repo=api-users&theme=react&border_color=61dafb&border_radius=10&v=2">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Team-6-R-L-Academy-Backend/api-products" title="API Products"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-6-R-L-Academy-Backend&repo=api-products&theme=react&border_color=61dafb&border_radius=10&v=1"></a>
-  <a align="right" href="https://github.com/Team-6-R-L-Academy-Backend/api-users" title="API Users"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-6-R-L-Academy-Backend&repo=api-users&theme=react&border_color=61dafb&border_radius=10&v=1"></a>
+  <a align="left" href="https://github.com/Team-6-R-L-Academy-Backend/api-products" title="API Products">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-6-R-L-Academy-Backend&repo=api-products&theme=react&border_color=61dafb&border_radius=10&v=2">
+  </a>
+  <a align="right" href="https://github.com/Team-6-R-L-Academy-Backend/api-users" title="API Users">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-6-R-L-Academy-Backend&repo=api-users&theme=react&border_color=61dafb&border_radius=10&v=2">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/AntoCant/porfolio" title="Portfolio"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoCant&repo=porfolio&theme=react&border_color=61dafb&border_radius=10&v=1"></a>
+  <a align="center" href="https://github.com/AntoCant/porfolio" title="Portfolio">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoCant&repo=porfolio&theme=react&border_color=61dafb&border_radius=10&v=2">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-
-
-
-
-
-
-
-
 
 [![](https://visitcount.itsvg.in/api?id=AntoCant&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
