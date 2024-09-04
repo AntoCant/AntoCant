@@ -23,10 +23,11 @@
 
 
 <h5 align="center">
-  <code><a href="https://linkedin.com/in/antonio-canteros/" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon_white.png"> LinkedIn</a></code>
-  <code><a href="https://antoniocanteros.com" title="Website"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Globe_icon_white.png"> Website</a></code>
-  <code><a href="mailto:antonio.canteros.alberto@gmail.com" title="Email"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg"> Email</a></code>
+  <code><a href="https://linkedin.com/in/antonio-canteros/" title="LinkedIn Profile"><img width="22" src="https://github.com/AntoCant/AntoCant/raw/main/image/linkedin.png"> LinkedIn</a></code>
+  <code><a href="https://antoniocanteros.com" title="Website"><img width="22" src="https://github.com/AntoCant/AntoCant/raw/main/image/web.png"> Website</a></code>
+  <code><a href="mailto:antonio.canteros.alberto@gmail.com" title="Email"><img width="22" src="https://github.com/AntoCant/AntoCant/raw/main/image/gmail.png"> Email</a></code>
 </h5>
+
 
 
 
