@@ -1,30 +1,35 @@
-<img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg" alt="Image showing Dennis Hartrampf, team lead software development">
-
-<p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
-</p>
-
- <!-- About section -->
+<img src="https://github.com/AntoCant/AntoCant/raw/main/image/abo.png" alt="Image of Antonio">
 
 ---
-✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
+👋 ¡Hola! Soy Antonio, un Desarrollador Back-End especializado en Java y Spring Boot, apasionado por crear soluciones eficientes y escalables.
 
-I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a [GitHub Star](https://stars.github.com/profiles/lauragift21/), Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
+💼 Actualmente, desarrollo microservicios para una aplicación móvil de una academia de programación. En mis tiempos libres, trabajo en una arquitectura de microservicios para un e-commerce.
+
+## 🎖️ Logros Destacados
+
+- **Trabajo Independiente:** Desarrollo backend para una app móvil de una academia de programación, usando Java, Spring Boot, PostgreSQL, Docker, Gradle, Swagger, Git y GitHub.
+  - Aplicación de patrones como Builder y Factory.
+  - Comprensión y documentación de la arquitectura del proyecto.
+  - Mejora continua enfrentando nuevos desafíos.
+
+- **Microservicios:** Diseñé microservicios escalables mejorando la eficiencia del sistema.
+
+- **Experiencia en LANXESS:** Resolví problemas complejos y mejoré la calidad del software.
+
+- **Formación Continua:** Autodidacta, actualizando constantemente mis habilidades.
+
+- **E-commerce (Curso):** Desarrollé el backend para una app de comercio electrónico usando Java, Spring Boot, PostgreSQL, Docker, Maven, Swagger, Git y GitHub. Implementé autenticación con Spring Security y JWT.
 
 
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- 😄 My Pronouns: She/Her   
+<h5 align="center">
+  <code><a href="https://linkedin.com/in/antonio-canteros/" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon_white.png"> LinkedIn</a></code>
+  <code><a href="https://antoniocanteros.com" title="Website"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Globe_icon_white.png"> Website</a></code>
+  <code><a href="mailto:antonio.canteros.alberto@gmail.com" title="Email"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg"> Email</a></code>
+</h5>
 
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
 
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
 
-- ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
-
-<!-- About section: END -->
 
 
 <!-- Conecct section -->
@@ -50,7 +55,22 @@ I love sharing my knowledge with others, and I do that through content creation 
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AntoCant&show_icons=true" />
 </details>
 
-
+<h2 align="center">Repositorios</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
 
 [![](https://visitcount.itsvg.in/api?id=AntoCant&icon=2&color=12)](https://visitcount.itsvg.in)
