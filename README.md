@@ -67,19 +67,24 @@
 <h2 align="center">Repositorios</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/CantMagg-tech-works/Auth-Server" title="Auth Server"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CantMagg-tech-works&repo=Auth-Server&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/CantMagg-tech-works/api-users" title="API Users"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CantMagg-tech-works&repo=api-users&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Team-6-R-L-Academy-Backend/api-products" title="API Products"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-6-R-L-Academy-Backend&repo=api-products&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Team-6-R-L-Academy-Backend/api-users" title="API Users"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-6-R-L-Academy-Backend&repo=api-users&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AntoCant/porfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoCant&repo=porfolio&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+
+
+
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=AntoCant&icon=2&color=12)](https://visitcount.itsvg.in)
